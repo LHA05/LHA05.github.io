@@ -1,0 +1,67 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+
+header{
+    background-color: #292ed4 ;
+}
+
+header a{
+
+}
+.nav-item a{
+    color: #dadada ;
+}
+.boton-perfil{
+  background-color: aqua;
+}
+.nav-item a:hover{
+ color: #69d2f6;
+}
+
+#app{
+    color: #0b0e7e ;
+}
+
+.boton-cv{
+    background-color: #69d2f6;
+}
+
+.cajahabilidades{
+    background-color: #861212;
+    color: white;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+    color: #0b0e7e;
+}
+
+.card .card-title{
+    color: #861212;
+}
+
+#contacto{
+    background-color: #292ed4;
+    color: #861212;
+}
+#contacto p{
+    color: #0b0e7e;
+}
+
+#btn-contacto{
+    background-color: #dfbe2b;
+    color: #861212;
+}
+
+footer li a i{
+color:#870000 ;
+}
+
+footer p{
+    color: #0b0e7e;
+}
+footer p a{
+    text-decoration: none;
+    color: #870000;
+}
